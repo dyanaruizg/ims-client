@@ -3,8 +3,8 @@
 
 * Instructor: Richard Krasso
 * Authors: 
-  Brandon Salvemini
-  Diana Ruiz Garcia
+  - Brandon Salvemini
+  - Diana Ruiz Garcia
 
 ## IMS Server Repository
 https://github.com/bsalvemini/ims-server
